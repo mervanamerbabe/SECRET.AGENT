@@ -1,6 +1,6 @@
 body{
   font-family: Helvetica;
-    font-size: 10px;
+    font-size: 18px;
     color: white;
     background-color: black;
 }
@@ -20,25 +20,35 @@ main content{
 }
 
 /*main banner*/
-.image-content{
+.main-banner{
+  background-image: url("css/resources/moto.jpeg");
+}
+
+.main-banner container{
 
 }
 
-.text-block{
+.headline{
 
 }
 
 /*navigation bar*/
 
 .navigation-bar{
-
+  background-color: firebrick;
+  color: white;
 }
 nav{
 
 }
 
 /*product grid*/
+.box{
 
+}
+.item{
+
+}
 
 /*location*/
 
@@ -47,3 +57,6 @@ nav{
 
 
 /*footer*/
+footer{
+
+}
